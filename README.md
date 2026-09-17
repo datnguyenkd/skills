@@ -1,6 +1,6 @@
 # Bộ đồ nghề Claude Code — Nệm Thuần Việt
 
-Chợ plugin (marketplace) cho Claude Code: **5 gói · 31 skill · 5 lệnh gạch chéo**.
+Chợ plugin (marketplace) cho Claude Code: **6 gói · 32 skill · 5 lệnh gạch chéo**.
 Cài một lần, dùng được ở **mọi thư mục** trên máy.
 
 > Kho này **công khai** — tải được mà **không cần tài khoản GitHub**.
@@ -33,7 +33,7 @@ skill muốn dùng vào `.claude/skills/` trong dự án của mình.
 
 ---
 
-## 5 gói có gì
+## 6 gói có gì
 
 | Gói | Dùng khi nào | Bên trong |
 |---|---|---|
@@ -41,10 +41,11 @@ skill muốn dùng vào `.claude/skills/` trong dự án của mình.
 | **`ntv-du-lieu`** | Đụng tới dữ liệu | Viết & tối ưu SQL · vẽ ERD · luật PostgreSQL · dựng server MCP từ OpenAPI |
 | **`ntv-giao-dien`** | Thiết kế giao diện | Kho tra: 161 bảng màu · 57 cặp font · 99 luật UX · 25 loại biểu đồ (tra bằng script Python chạy tại chỗ) |
 | **`ntv-ban-lam-viec`** | Là CEO / trưởng phòng muốn có **bàn làm việc riêng trên ERP** (số của mảng mình mở ra là thấy) | 1 skill: quy trình bản vẽ → nguồn số → dựng từng khối bằng Workspace + Custom HTML Block, thanh trái trượt tới khối, khối Ghi chú & Việc, nhận diện thương hiệu, mẫu code và các bẫy Frappe 16 |
+| **`ntv-nhan-dien`** | Làm **slide, catalogue, ấn phẩm** cho Nệm Việt Nhật đúng nhận diện | 1 skill `nem-viet-nhat-brand`: mã màu · font SVN Gilroy 16 nấc (kèm font) · logo đủ bản · nền gradient · luật logo · tagline; script dựng slide 16:9, catalogue A4 từ Excel bảng giá (nhãn bảo hành/ngủ thử đúng dòng foam/cao su), QA render ảnh |
 | **`ntv-xuong`** | Nhịp làm việc chung | Cổng `/soi-code` soi code trước khi gộp · `/phien-dev` · `/thuc-thi` · `/kts` · `/nghiem-thu` · `/giam-sat` · chuẩn ghi memory · kỷ luật code Karpathy |
 
 **Chưa biết cài gì thì cài `ntv-xuong`** — nó là nội quy và nhịp làm việc, ai cũng dùng được.
-Ai code Frappe thì cài thêm `ntv-frappe`. Trưởng phòng muốn có bàn làm việc riêng trên ERP thì cài `ntv-ban-lam-viec`.
+Ai code Frappe thì cài thêm `ntv-frappe`. Trưởng phòng muốn có bàn làm việc riêng trên ERP thì cài `ntv-ban-lam-viec`. Làm slide/catalogue cho Nệm Việt Nhật thì cài `ntv-nhan-dien`.
 
 ---
 

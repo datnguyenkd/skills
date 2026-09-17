@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "ntv-nhan-dien",
+  "version": "1.0.0",
+  "description": "Bộ nhận diện thương hiệu Nệm Việt Nhật (xanh #40A646, logo ngôi sao, tagline Nâng Tầm Cuộc Sống, theo Brand Book 2026) đóng thành skill: mã màu · font SVN Gilroy 16 nấc (kèm font) · logo đủ phiên bản · nền gradient · luật dùng logo · liên hệ, kèm công cụ Python dựng slide PowerPoint 16:9 đúng chuẩn, catalogue A4 từ Excel bảng giá (nhãn bảo hành/ngủ thử đúng theo dòng foam/cao su, không in mù) và script QA render slide ra ảnh (macOS không cần cài gì, Windows dùng PowerPoint).",
+  "author": {
+    "name": "Nệm Thuần Việt — Khối Sale & Marketing (Xuân Đạt)"
+  },
+  "keywords": [
+    "nhan-dien",
+    "brand",
+    "thuong-hieu",
+    "slide",
+    "pptx",
+    "catalogue",
+    "nem-viet-nhat"
+  ],
+  "homepage": "https://github.com/nem-thuan-viet/skills"
+}

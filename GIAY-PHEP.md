@@ -8,6 +8,7 @@ Kho này gom skill từ nhiều nguồn. **Mỗi gói có giấy phép riêng** 
 | `ntv-du-lieu` | **MIT** — [`plugins/ntv-du-lieu/LICENSE`](plugins/ntv-du-lieu/LICENSE) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
 | `ntv-giao-dien` | **MIT** — [`plugins/ntv-giao-dien/LICENSE`](plugins/ntv-giao-dien/LICENSE) | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) v2.11.0 |
 | `ntv-ban-lam-viec` | Đồ nhà Nệm Thuần Việt (Khối Sale & Marketing) | tự viết 09/2026 |
+| `ntv-nhan-dien` | Đồ nhà Nệm Thuần Việt (Khối Sale & Marketing) — logo/nhận diện Nệm Việt Nhật là tài sản thương hiệu; font SVN-Gilroy công ty đã mua, kèm để dùng nội bộ | tự viết 06–09/2026 |
 | `ntv-xuong` | Đồ nhà Nệm Thuần Việt, trừ `karpathy-guidelines` khai **MIT** trong frontmatter của chính nó | tự viết |
 
 ## Đã sửa so với bản nội bộ

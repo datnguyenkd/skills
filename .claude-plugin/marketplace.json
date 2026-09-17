@@ -5,8 +5,8 @@
     "name": "Nệm Thuần Việt"
   },
   "metadata": {
-    "description": "Bộ đồ nghề Claude Code của Nệm Thuần Việt — skill viết code Frappe/ERPNext, xử lý dữ liệu/SQL, thiết kế giao diện, và nhịp làm việc của xưởng, và dựng bàn làm việc cho trưởng phòng ngay trên ERP.",
-    "version": "1.1.0"
+    "description": "Bộ đồ nghề Claude Code của Nệm Thuần Việt — skill viết code Frappe/ERPNext, xử lý dữ liệu/SQL, thiết kế giao diện, và nhịp làm việc của xưởng, và dựng bàn làm việc cho trưởng phòng ngay trên ERP, và bộ nhận diện Nệm Việt Nhật để dựng slide, catalogue đúng chuẩn.",
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -64,6 +64,19 @@
         "workspace",
         "dashboard",
         "ban-lam-viec"
+      ]
+    },
+    {
+      "name": "ntv-nhan-dien",
+      "source": "./plugins/ntv-nhan-dien",
+      "description": "Nhận diện thương hiệu Nệm Việt Nhật (Brand Book 2026): mã màu, font SVN Gilroy, logo, nền gradient, luật logo, tagline + công cụ dựng slide PowerPoint 16:9, catalogue A4 từ Excel bảng giá (nhãn bảo hành/ngủ thử đúng dòng) và QA render slide ra ảnh.",
+      "category": "design",
+      "keywords": [
+        "nhan-dien",
+        "brand",
+        "pptx",
+        "catalogue",
+        "viet-nhat"
       ]
     }
   ]
